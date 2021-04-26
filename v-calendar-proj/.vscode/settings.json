@@ -5,6 +5,7 @@
         "javascript",
         "vue"
     ],
+    "files.eol": "auto",
     "editor.codeActionsOnSave": {
         "source.fixAll": true
     }
